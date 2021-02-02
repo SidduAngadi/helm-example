@@ -1,0 +1,27 @@
+apiVersion: v1
+entries:
+  vault:
+  - apiVersion: v2
+    appVersion: 1.6.1
+    created: "2021-02-02T09:06:53.219501Z"
+    description: Official HashiCorp Vault Chart
+    digest: 75206c8ff368e6a278c826b62d43ca53c3db04fd124523ce34dd7da82c9b5514
+    home: https://www.vaultproject.io
+    icon: https://github.com/hashicorp/vault/raw/f22d202cde2018f9455dec755118a9b84586e082/Vault_PrimaryLogo_Black.png
+    keywords:
+    - vault
+    - security
+    - encryption
+    - secrets
+    - management
+    - automation
+    - infrastructure
+    name: vault
+    sources:
+    - https://github.com/hashicorp/vault
+    - https://github.com/hashicorp/vault-helm
+    - https://github.com/hashicorp/vault-k8s
+    urls:
+    - https://sidduangadi.github.io/helm-example/vault-0.9.0.tgz
+    version: 0.9.0
+generated: "2021-02-02T09:06:53.216848Z"
